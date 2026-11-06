@@ -1,14 +1,14 @@
-# Hola, soy Tomás Acosta 👋
+# Hi, I'm Tomás Acosta 👋
 
-**Desarrollador Full Stack** en formación avanzada y creador digital.
+**Full Stack Developer** in advanced training and digital creator.
 
-### 🚀 Sobre mí
+### About me
 
-Me enfoco en la construcción de **APIs RESTful**, en una **arquitectura de backend sustentable** con Node.js y Express, y en el desarrollo de **interfaces dinámicas con React**.
+I focus on building **RESTful APIs**, **sustainable backend architecture** with Node.js and Express, and **dynamic interfaces with React**.
 
-Actualmente potencio mis habilidades técnicas en el **Bootcamp 5.0 de Devlights**, donde colaboro en proyectos de software reales y desarrollo soluciones web integrales.
 
-### 🛠️ Tech Stack y herramientas
+
+### Tech Stack & Tools
 
 **Back-End**
 
@@ -29,20 +29,13 @@ Actualmente potencio mis habilidades técnicas en el **Bootcamp 5.0 de Devlights
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Control de versiones y workflow**
+**Version Control & Workflow**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-### 📂 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [**Ticketing App**](https://github.com/tony9928-creator/Ticketing-app) | Plataforma full stack de venta de entradas: reservas con bloqueo de stock, pago, tickets con QR y validación en la puerta. Proyecto grupal del bootcamp. | Next.js, React, Node.js, Express, TypeScript, MongoDB |
-| [**Velocore API**](https://github.com/tony9928-creator/velocore-api) | API REST para la gestión de un gimnasio: usuarios con roles, clases con cupo y reservas. | Node.js, Express, TypeScript, MongoDB, JWT, Zod |
-
-### 📫 Contacto
+### 📫 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tomasaocst/)
